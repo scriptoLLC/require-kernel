@@ -321,7 +321,7 @@
       }
     }
 
-    request.open('GET', uri, !!(async));
+    request.open('GET', uri, true);
     if (async) {
       request.onreadystatechange = function (event) {
         if (request.readyState == 4) {

@@ -1,5 +1,5 @@
 {
-  "name": "require-kernel"
+  "name": "@scriptollc/require-kernel"
 , "description": "A reference implementation of a CommonJS module loader."
 , "homepage": "https://github.com/cweider/require-kernel"
 , "keywords": ["commonjs", "require", "loader", "editor"]
@@ -7,9 +7,9 @@
 		"name": "Chad Weider"
 	, "email": "cweider@oofn.net"
 	, "url": "http://oofn.net"
-  }
+}
 , "dependencies": {}
-, "version": "1.0.6"
+, "version": "2.0.0"
 , "repository": {
     "type": "git"
 	, "url": "git://github.com/cweider/require-kernel"
